@@ -1,1 +1,1 @@
-# Terraform file to create new instance in AWS
+# Basic Terraform file to create new instance in AWS
